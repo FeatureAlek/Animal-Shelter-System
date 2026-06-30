@@ -31,10 +31,14 @@ src
 │   ├── Dog.java
 │   ├── Cat.java
 │   ├── Bird.java
+│   ├── Rabbit.java
 │   ├── AnimalId.java
+│   ├── AnimalRecord.java
 │   └── AdoptionStatus.java
-└── shelter/
-    └── Shelter.java
+├── shelter/
+│    └── Shelter.java
+├── util/
+     └── AnimalUtils.java 
 ```
 ## Stretch goals
 - Add a new animal type without modifying existing functionality
