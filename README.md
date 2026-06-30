@@ -40,6 +40,8 @@ src
 ├── util/
      └── AnimalUtils.java 
 ```
+
+### Attempted to do every of them! 
 ## Stretch goals
 - Add a new animal type without modifying existing functionality
 - Allow sorting animals by age or name
